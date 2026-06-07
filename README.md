@@ -1,11 +1,11 @@
 # SQL Relational Database — Student Grade Tracker
 
 **Name:** Tro Opong Ebenezer Jules Samuel
-**Date:** May 2026
+**Date:** June 2026
 **Course:** CSE 310 Applied Programming — BYU-Idaho
 
 ## Demo Video
-[Click here to watch the demo]()
+https://youtu.be/pJxB8kwChUE
 
 ## Overview
 This program is a command-line Student Grade Tracker that uses a SQLite relational database to store and manage student records. It lets users add students to courses, view their grades, update records, and delete entries through a numbered menu. The program demonstrates all core SQL operations — INSERT, SELECT, UPDATE, DELETE, JOIN, and aggregate functions — using Python's built-in sqlite3 library.
